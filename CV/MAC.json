@@ -1,0 +1,629 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Gianni",
+      "surnames": "Pasquinelli",
+      "title": "Desarrollador web - Frontend developer React | HTML | CSS | Javascript | Git | Python | Blender | Three.js",
+      "description": "Soy un desarrollador frontend con más de tres años de experiencia en el desarrollo de aplicaciones y sitios web con tecnologías como React, Three.js, Python, HTML, CSS y JavaScript. Me apasiona la programación web y el diseño de interfaces interactivas y dinámicas, especialmente en el campo de la visualización 3D.\n\nEn mi actual posición en Holocruxe, trabajo en equipo con otros desarrolladores y diseñadores para crear soluciones web innovadoras y de alta calidad para usuarios de diferentes sectores. Además, aplico mis habilidades blandas adquiridas como músico, guitarrista y compositor, tales como la creatividad, el liderazgo, la comunicación y la resolución de problemas. Mi objetivo es seguir aprendiendo y creciendo como profesional en el ámbito del desarrollo web, aportando valor y satisfacción a las empresas y usuarios.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/131cd169-685c-4306-bf2e-a9bbd5431cd7_gianni.jpeg",
+        "alt": "gianni.JPEG"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJW9fXNZNTtpURV6VYAumGQOw)",
+        "country": "Argentina",
+        "region": "Santa Fe",
+        "municipality": "Rosario"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/gianni-pasquinelli"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Gianni03"
+      },
+      {
+        "type": "other",
+        "URL": "https://giannipasquinelli-webdev.netlify.app/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Holocruxe",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/1048512c-53b1-4eab-b9a5-6732c66ef78d_linkedin-photo-25519.linkedin-photo-25519",
+            "alt": "23/12/15/1048512c-53b1-4eab-b9a5-6732c66ef78d_linkedin-photo-25519.linkedin-photo-25519"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2023-08-01",
+            "challenges": [
+              {
+                "description": "Skills: Visualización en 3D · Three.js · 3D · React.js · css · JavaScript · Desarrollo front end · Trabajo en equipo · GitHub"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Focus On Kids",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/f8e1ad78-566d-49c3-ad21-8e1703ee86cb_linkedin-photo-25519.linkedin-photo-25519",
+            "alt": "23/12/15/f8e1ad78-566d-49c3-ad21-8e1703ee86cb_linkedin-photo-25519.linkedin-photo-25519"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de front-end",
+            "startDate": "2023-01-01",
+            "finishDate": "2023-08-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de nuevo sitio web de Focus on Kids, con el nuevo rebranding. Trabajo en equipo con Metodología Agile,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Global Commerce Media GmbH",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/6324190d-de7e-4a40-8e9a-1fbec2841395_linkedin-photo-25519.linkedin-photo-25519",
+            "alt": "23/12/15/6324190d-de7e-4a40-8e9a-1fbec2841395_linkedin-photo-25519.linkedin-photo-25519"
+          }
+        },
+        "roles": [
+          {
+            "name": "Redactor de contenidos",
+            "startDate": "2021-09-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": " helped me get this job"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Focus On Kids",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/4141f1eb-8f7f-426b-8b7f-af7357935d4f_linkedin-photo-25519.linkedin-photo-25519",
+            "alt": "23/12/15/4141f1eb-8f7f-426b-8b7f-af7357935d4f_linkedin-photo-25519.linkedin-photo-25519"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director administrativo",
+            "startDate": "2021-06-01",
+            "finishDate": "2023-08-31",
+            "challenges": [
+              {
+                "description": "Gestión de sistema, pagos, turnos. Contácto con familias y obras sociales.\nDigitalicé todo el contenido de la clínica y diseñe todo el sistema de la gestión administrativa.\nTambien desarrollé el sitio web. Todo esto permitio la suba de un 60% de nuevos clientes.\nPersonal a cargo: 6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Onlines & co.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/97a26c5c-5f8a-4cf7-a23c-ac01de0d7b93_linkedin-photo-25519.linkedin-photo-25519",
+            "alt": "23/12/15/97a26c5c-5f8a-4cf7-a23c-ac01de0d7b93_linkedin-photo-25519.linkedin-photo-25519"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web",
+            "startDate": "2020-11-01",
+            "finishDate": "2021-08-31",
+            "challenges": [
+              {
+                "description": "Mis primeros pasos en el desarrollo web con la guía de estudios y prácticas de Onlines&co... Me abrió las puertas a este maravilloso mundo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Chubits.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/ca646b44-0cf7-4cf8-9549-d5af1f50c75b_linkedin-photo-25519.linkedin-photo-25519",
+            "alt": "23/12/15/ca646b44-0cf7-4cf8-9549-d5af1f50c75b_linkedin-photo-25519.linkedin-photo-25519"
+          }
+        },
+        "roles": [
+          {
+            "name": "Vendedor",
+            "startDate": "2016-11-01",
+            "finishDate": "2017-02-28",
+            "challenges": [
+              {
+                "description": "venta de articulos eléctronicos, smart tv, audio, computadoras y componentes. Concretando ventas en local a 1 de cada 4 clientes. Gestioné ventas a instituciones y comecios generando contactos via mail y wapp."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Funes Art"
+        },
+        "roles": [
+          {
+            "name": "Profesor de música",
+            "startDate": "2015-03-01",
+            "finishDate": "2020-03-31",
+            "challenges": [
+              {
+                "description": "Profesor de guitarra eléctrica. Dictado de cursos de audiperceptiva y armonía."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Frozen Supplier"
+        },
+        "roles": [
+          {
+            "name": "Administrador de empresas",
+            "startDate": "2012-07-01",
+            "finishDate": "2015-09-30",
+            "challenges": [
+              {
+                "description": "Administrativo. ingreso de datos de facturación al sistema, analisis de cuentas, manejo de caja, operaciones bancarias, pago a proveedores, facturación.\nAgilice los procesos de conteo de efectivo de fleteros y administracion. Implementé sistemas de control de efectivo. Disminuí los errores de facturación al mantener el stock en sistema.\npersonas a cargo: 12"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "City Center Rosario",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/15/dc77f535-b970-4d06-8ee8-f212029f307e_linkedin-photo-25519.linkedin-photo-25519",
+            "alt": "23/12/15/dc77f535-b970-4d06-8ee8-f212029f307e_linkedin-photo-25519.linkedin-photo-25519"
+          }
+        },
+        "roles": [
+          {
+            "name": "Casino Dealer",
+            "startDate": "2009-09-01",
+            "finishDate": "2012-08-31",
+            "challenges": [
+              {
+                "description": "Croupier de ruleta. Manejando el ritmo de la mesa según indicaciones de surpervisores. Control de mesa, clientes y premios."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Argentina Programa",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Secretaria de comercio de la nación",
+          "description": "Programa del estado para fomentar y adquirir conocimientos en el mundo de la programación.\ncursando ya las secciones de logica de programación, front end e iniciando python",
+          "URL": "https://www.argentina.gob.ar/economia/conocimiento/argentina-programa"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Desarrollador front end",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Varios",
+          "description": "He realiizado muchos cursos por lo cual dejo aqui mi drive con los respectivos certificados de cada curso realizado y aprovado",
+          "URL": "https://drive.google.com/drive/folders/1QzMsUCx2nly2047IvccyQyNDWWj4RGRO?usp=share_link"
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Front en developer",
+        "startDate": "2021-12-01",
+        "institution": {
+          "name": "Coderhouse",
+          "description": "Tres cursos de la plataforma CoderHouse, desarrollo web (nota 9), javaScript (nota 9) y react (nota 7)",
+          "URL": "https://www.coderhouse.com/?utm_term=coderhouse&utm_campaign=0&utm_source=google_search_brand&utm_medium=cpc&gclid=CjwKCAjw8-OhBhB5EiwADyoY1R7QWNOce-nRYD7Bj369HLBsPnd5XR73H6PdT9W1608vPksvpHGPlhoC5j4QAvD_BwE"
+        },
+        "finishDate": "2022-10-01",
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Google Firebase",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Tectnicatura en programacion",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "UTN - universidad tecnológica nacional de San Rafael - Mendoza",
+          "description": "Tecnicatura de dos años de duración, a la cual me inscribí para organizar, aumentar y confiramar mi conocimiento con una titulación oficial.",
+          "URL": "http://www.frsr.utn.edu.ar/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "front en developer",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "description": "Curso del sitio openBootcamp, realizando la ruta frontend.",
+          "URL": "https://campus.open-bootcamp.com/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "full stack developer",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Alura Latam",
+          "description": "Programa ONE - Oracle next education.\nformación becada por oracle en la plataforma Alura",
+          "URL": "https://www.oracle.com/ar/education/oracle-next-education/"
+        },
+        "finishDate": "2023-01-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento creativo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/gianni-pasquinelli",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Gianni03",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "giannipasquinelli@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "3413704638",
+          "countryCode": "+54"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Apple iOS",
+          "type": "technology"
+        },
+        {
+          "name": "Atlassian",
+          "type": "technology"
+        },
+        {
+          "name": "Blender",
+          "type": "technology"
+        },
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "Three.js",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal como desarrollador front end, es un trabajo remoto que me permita disfrutar de una vida laboral equilibrada, mientras colaboro con un equipo pequeño y colaborativo en proyectos web y aplicaciones. Me entusiasma trabajar en conjunto para alcanzar objetivos comunes, donde los compañeros de trabajo se apoyen mutuamente para alcanzar el éxito. Me siento motivado por compartir mis conocimientos y aprender de mis colegas, para expandir mi experiencia y mejorar continuamente mis habilidades de programación. Estoy interesado en trabajar en proyectos que presenten desafíos emocionantes y complejos, donde pueda aplicar mis habilidades en la creación de soluciones efectivas y creativas."
+  }
+}
