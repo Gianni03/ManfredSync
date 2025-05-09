@@ -270,7 +270,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -322,7 +322,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           }
         ]
@@ -400,7 +400,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -483,7 +483,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -529,15 +529,6 @@
           "URL": "https://github.com/Gianni03",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "giannipasquinelli@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "3413704638",
-          "countryCode": "+54"
-        }
       ]
     },
     "preferences": {
@@ -567,7 +558,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
